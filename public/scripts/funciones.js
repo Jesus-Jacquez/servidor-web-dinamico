@@ -1,0 +1,1 @@
+alert("Pagina de pintores famosos")
